@@ -28,7 +28,7 @@ TODO: Add long description of the pod here.
 
   s.ios.deployment_target = '12.0'
 
-  s.source_files = "NetStatus/NetStatus/Source/NetStatus.swift"
+  s.source_files = "NetStatus/Source/NetStatus.swift"
   s.swift_version = '4.0'
   
 end
